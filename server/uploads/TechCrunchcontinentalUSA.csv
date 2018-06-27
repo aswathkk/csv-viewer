@@ -1,0 +1,480 @@
+permalink,company,numEmps,category,city,state,fundedDate,raisedAmt,raisedCurrency,round
+lifelock,LifeLock,,web,Tempe,AZ,1-May-07,6850000,USD,b
+lifelock,LifeLock,,web,Tempe,AZ,1-Oct-06,6000000,USD,a
+lifelock,LifeLock,,web,Tempe,AZ,1-Jan-08,25000000,USD,c
+mycityfaces,MyCityFaces,7,web,Scottsdale,AZ,1-Jan-08,50000,USD,seed
+flypaper,Flypaper,,web,Phoenix,AZ,1-Feb-08,3000000,USD,a
+infusionsoft,Infusionsoft,105,software,Gilbert,AZ,1-Oct-07,9000000,USD,a
+gauto,gAuto,4,web,Scottsdale,AZ,1-Jan-08,250000,USD,seed
+chosenlist-com,ChosenList.com,5,web,Scottsdale,AZ,1-Oct-06,140000,USD,seed
+chosenlist-com,ChosenList.com,5,web,Scottsdale,AZ,25-Jan-08,233750,USD,angel
+digg,Digg,60,web,San Francisco,CA,1-Dec-06,8500000,USD,b
+digg,Digg,60,web,San Francisco,CA,1-Oct-05,2800000,USD,a
+facebook,Facebook,450,web,Palo Alto,CA,1-Sep-04,500000,USD,angel
+facebook,Facebook,450,web,Palo Alto,CA,1-May-05,12700000,USD,a
+facebook,Facebook,450,web,Palo Alto,CA,1-Apr-06,27500000,USD,b
+facebook,Facebook,450,web,Palo Alto,CA,1-Oct-07,300000000,USD,c
+facebook,Facebook,450,web,Palo Alto,CA,1-Mar-08,40000000,USD,c
+facebook,Facebook,450,web,Palo Alto,CA,15-Jan-08,15000000,USD,c
+facebook,Facebook,450,web,Palo Alto,CA,1-May-08,100000000,USD,debt_round
+photobucket,Photobucket,60,web,Palo Alto,CA,1-May-06,10500000,USD,b
+photobucket,Photobucket,60,web,Palo Alto,CA,1-Mar-05,3000000,USD,a
+omnidrive,Omnidrive,,web,Palo Alto,CA,1-Dec-06,800000,USD,angel
+geni,Geni,18,web,West Hollywood,CA,1-Jan-07,1500000,USD,a
+geni,Geni,18,web,West Hollywood,CA,1-Mar-07,10000000,USD,b
+twitter,Twitter,17,web,San Francisco,CA,1-Jul-07,5400000,USD,b
+twitter,Twitter,17,web,San Francisco,CA,1-May-08,15000000,USD,c
+stumbleupon,StumbleUpon,,web,San Francisco,CA,1-Dec-05,1500000,USD,seed
+gizmoz,Gizmoz,,web,Menlo Park,CA,1-May-07,6300000,USD,a
+gizmoz,Gizmoz,,web,Menlo Park,CA,16-Mar-08,6500000,USD,b
+scribd,Scribd,14,web,San Francisco,CA,1-Jun-06,12000,USD,seed
+scribd,Scribd,14,web,San Francisco,CA,1-Jan-07,40000,USD,angel
+scribd,Scribd,14,web,San Francisco,CA,1-Jun-07,3710000,USD,a
+slacker,Slacker,,web,San Diego,CA,1-Jun-07,40000000,USD,b
+slacker,Slacker,,web,San Diego,CA,1-Jun-07,13500000,USD,a
+lala,Lala,,web,Palo Alto,CA,1-May-07,9000000,USD,a
+plaxo,Plaxo,50,web,Mountain View,CA,1-Nov-02,3800000,USD,a
+plaxo,Plaxo,50,web,Mountain View,CA,1-Jul-03,8500000,USD,b
+plaxo,Plaxo,50,web,Mountain View,CA,1-Apr-04,7000000,USD,c
+plaxo,Plaxo,50,web,Mountain View,CA,1-Feb-07,9000000,USD,d
+powerset,Powerset,60,web,San Francisco,CA,1-Jun-07,12500000,USD,a
+technorati,Technorati,25,web,San Francisco,CA,1-Jun-06,10520000,USD,c
+technorati,Technorati,25,web,San Francisco,CA,1-Sep-04,6500000,USD,b
+technorati,Technorati,25,web,San Francisco,CA,13-Jun-08,7500000,USD,d
+technorati,Technorati,25,web,San Francisco,CA,10-May-07,1000000,USD,c
+mahalo,Mahalo,40,web,Santa Monica,CA,1-Jan-06,5000000,USD,a
+mahalo,Mahalo,40,web,Santa Monica,CA,1-Jan-07,16000000,USD,b
+kyte,Kyte,40,web,San Francisco,CA,1-Jul-07,2250000,USD,a
+kyte,Kyte,40,web,San Francisco,CA,1-Dec-07,15000000,USD,b
+kyte,Kyte,40,web,San Francisco,CA,10-Mar-08,6100000,USD,b
+veoh,Veoh,,web,San Diego,CA,1-Apr-06,12500000,USD,b
+veoh,Veoh,,web,San Diego,CA,1-Aug-07,25000000,USD,c
+veoh,Veoh,,web,San Diego,CA,1-Jul-05,2250000,USD,a
+veoh,Veoh,,web,San Diego,CA,3-Jun-08,30000000,USD,d
+jingle-networks,Jingle Networks,,web,Menlo Park,CA,1-Oct-06,30000000,USD,c
+jingle-networks,Jingle Networks,,web,Menlo Park,CA,1-Dec-05,5000000,USD,a
+jingle-networks,Jingle Networks,,web,Menlo Park,CA,1-Apr-06,26000000,USD,b
+jingle-networks,Jingle Networks,,web,Menlo Park,CA,1-Oct-05,400000,USD,angel
+jingle-networks,Jingle Networks,,web,Menlo Park,CA,1-Jan-08,13000000,USD,c
+ning,Ning,41,web,Palo Alto,CA,1-Jul-07,44000000,USD,c
+ning,Ning,41,web,Palo Alto,CA,1-Apr-08,60000000,USD,d
+jotspot,JotSpot,,web,Palo Alto,CA,1-Aug-04,5200000,USD,a
+mercora,Mercora,,web,Sunnyvale,CA,1-Jan-05,5000000,USD,a
+wesabe,Wesabe,,web,San Francisco,CA,1-Feb-07,700000,USD,seed
+wesabe,Wesabe,,web,San Francisco,CA,1-Jun-07,4000000,USD,a
+jangl,Jangl,22,web,Pleasanton,CA,1-Jul-06,7000000,USD,b
+hyphen8,Hyphen 8,4,web,San Francisco,CA,1-Oct-07,100000,USD,angel
+prosper,Prosper,,web,San Francisco,CA,1-Jun-07,20000000,USD,c
+prosper,Prosper,,web,San Francisco,CA,1-Apr-05,7500000,USD,a
+prosper,Prosper,,web,San Francisco,CA,1-Feb-06,12500000,USD,b
+google,Google,20000,web,Mountain View,CA,1-Jun-99,25000000,USD,a
+jajah,Jajah,80,web,Mountain View,CA,1-May-07,20000000,USD,c
+jajah,Jajah,80,web,Mountain View,CA,1-Mar-06,3000000,USD,a
+jajah,Jajah,80,web,Mountain View,CA,1-Apr-06,5000000,USD,b
+youtube,YouTube,,web,San Bruno,CA,1-Nov-05,3500000,USD,a
+youtube,YouTube,,web,San Bruno,CA,1-Apr-06,8000000,USD,b
+ustream,Ustream,,web,Mountain View,CA,1-Dec-07,2000000,USD,angel
+ustream,Ustream,,web,Mountain View,CA,10-Apr-08,11100000,USD,a
+gizmoproject,GizmoProject,,web,San Diego,CA,1-Feb-06,6000000,USD,a
+adap-tv,Adap.tv,15,web,San Mateo,CA,1-Jul-07,10000000,USD,a
+topix,Topix,,web,Palo Alto,CA,1-Nov-06,15000000,USD,b
+revision3,Revision3,,web,San Francisco,CA,1-Sep-06,1000000,USD,a
+revision3,Revision3,,web,San Francisco,CA,1-Jun-07,8000000,USD,b
+aggregateknowledge,Aggregate Knowledge,,web,San Mateo,CA,1-Jun-06,5000000,USD,a
+aggregateknowledge,Aggregate Knowledge,,web,San Mateo,CA,1-Apr-07,20000000,USD,b
+sugarinc,Sugar Inc,,web,San Francisco,CA,1-Oct-06,5000000,USD,a
+sugarinc,Sugar Inc,,web,San Francisco,CA,1-Jun-07,10000000,USD,b
+zing,Zing,,web,Mountain View,CA,1-Jan-07,13000000,USD,a
+criticalmetrics,CriticalMetrics,4,web,,CA,1-Jan-07,100000,USD,angel
+spock,Spock,30,web,Redwood City,CA,1-Dec-06,7000000,USD,a
+wize,Wize,,web,,CA,1-Jan-07,4000000,USD,a
+sodahead,SodaHead,,web,,CA,1-Jan-07,4250000,USD,a
+sodahead,SodaHead,,web,,CA,25-Jun-08,8400000,USD,b
+casttv,CastTV,0,web,San Francisco,CA,1-Apr-07,3100000,USD,a
+buzznet,BuzzNet,,web,Hollywood,CA,1-May-07,6000000,USD,a
+buzznet,BuzzNet,,web,Hollywood,CA,7-Apr-08,25000000,USD,b
+funny-or-die,Funny Or Die,,web,Palo Alto,CA,1-Dec-07,15000000,USD,b
+sphere,Sphere,11,web,San Francisco,CA,1-May-06,3000000,USD,b
+sphere,Sphere,11,web,San Francisco,CA,1-Apr-05,500000,USD,a
+meevee,MeeVee,,web,Burlingame,CA,1-Feb-06,6500000,USD,b
+meevee,MeeVee,,web,Burlingame,CA,1-Aug-06,8000000,USD,c
+meevee,MeeVee,,web,Burlingame,CA,1-Feb-05,7000000,USD,a
+meevee,MeeVee,,web,Burlingame,CA,1-Sep-07,3500000,USD,d
+mashery,Mashery,0,web,San Francisco,CA,26-Jun-08,2000000,USD,c
+yelp,Yelp,,web,San Francisco,CA,1-Oct-06,10000000,USD,c
+yelp,Yelp,,web,San Francisco,CA,1-Oct-05,5000000,USD,b
+yelp,Yelp,,web,San Francisco,CA,1-Jul-04,1000000,USD,a
+yelp,Yelp,,web,San Francisco,CA,26-Feb-08,15000000,USD,d
+spotplex,Spotplex,3,web,Santa Clara,CA,1-Jan-07,450000,USD,angel
+coghead,Coghead,21,web,Redwood City,CA,1-Mar-06,3200000,USD,a
+coghead,Coghead,21,web,Redwood City,CA,1-Mar-07,8000000,USD,b
+zooomr,Zooomr,,web,San Francisco,CA,1-Feb-06,50000,USD,angel
+sidestep,SideStep,75,web,Santa Clara,CA,1-Feb-07,15000000,USD,c
+sidestep,SideStep,75,web,Santa Clara,CA,1-Jan-04,8000000,USD,b
+sidestep,SideStep,75,web,Santa Clara,CA,1-Dec-99,2200000,USD,a
+sidestep,SideStep,75,web,Santa Clara,CA,1-Oct-00,6800000,USD,a
+rockyou,RockYou,,web,San Mateo,CA,1-Jan-07,1500000,USD,a
+rockyou,RockYou,,web,San Mateo,CA,1-Mar-07,15000000,USD,b
+rockyou,RockYou,,web,San Mateo,CA,9-Jun-08,35000000,USD,c
+rockyou,RockYou,,web,San Mateo,CA,27-May-08,1000000,USD,unattributed
+pageflakes,Pageflakes,20,web,San Francisco,CA,1-May-06,1300000,USD,a
+swivel,Swivel,,web,San Francisco,CA,1-Sep-06,1000000,USD,a
+swivel,Swivel,,web,San Francisco,CA,1-Apr-07,1000000,USD,a
+slide,Slide,64,web,San Francisco,CA,1-Jul-05,8000000,USD,b
+slide,Slide,64,web,San Francisco,CA,1-Jan-08,50000000,USD,d
+bebo,Bebo,,web,San Francisco,CA,1-May-06,15000000,USD,a
+freebase,freebase,,web,San Francisco,CA,1-Mar-06,15000000,USD,a
+freebase,freebase,,web,San Francisco,CA,1-Jan-08,42500000,USD,b
+metawebtechnologies,Metaweb Technologies,,web,San Francisco,CA,15-Jan-08,42000000,USD,b
+glammedia,Glam Media,,web,Brisbane,CA,1-Jul-04,1100000,USD,a
+glammedia,Glam Media,,web,Brisbane,CA,1-Jul-05,10000000,USD,b
+glammedia,Glam Media,,web,Brisbane,CA,1-Dec-06,18500000,USD,c
+glammedia,Glam Media,,web,Brisbane,CA,1-Feb-08,65000000,USD,d
+glammedia,Glam Media,,web,Brisbane,CA,1-Feb-08,20000000,USD,d
+thefind,TheFind,,web,Mountain View,CA,1-Feb-05,7000000,USD,a
+thefind,TheFind,,web,Mountain View,CA,1-Oct-06,4000000,USD,b
+thefind,TheFind,,web,Mountain View,CA,1-Jul-07,15000000,USD,c
+zazzle,Zazzle,,web,Redwood City,CA,1-Jul-05,16000000,USD,a
+zazzle,Zazzle,,web,Redwood City,CA,1-Oct-07,30000000,USD,b
+dogster,Dogster,,web,San Francisco,CA,1-Sep-06,1000000,USD,angel
+pandora,Pandora,80,web,Oakland,CA,1-Jan-04,7800000,USD,b
+pandora,Pandora,80,web,Oakland,CA,1-Oct-05,12000000,USD,c
+pandora,Pandora,80,web,Oakland,CA,2-Mar-00,1500000,USD,a
+cafepress,Cafepress,300,web,Foster City,CA,1-Mar-00,1200000,USD,a
+cafepress,Cafepress,300,web,Foster City,CA,1-May-01,300000,USD,a
+cafepress,Cafepress,300,web,Foster City,CA,1-Feb-05,14000000,USD,b
+pbwiki,pbwiki,15,web,,CA,11-Sep-06,350000,USD,a
+pbwiki,pbwiki,15,web,,CA,1-Feb-07,2100000,USD,b
+adbrite,AdBrite,,web,San Francisco,CA,1-Sep-04,4000000,USD,a
+adbrite,AdBrite,,web,San Francisco,CA,1-Feb-06,8000000,USD,b
+adbrite,AdBrite,,web,San Francisco,CA,1-Nov-07,23000000,USD,c
+loomia,Loomia,,web,San Francisco,CA,1-Jun-05,1000000,USD,seed
+loomia,Loomia,,web,San Francisco,CA,1-Apr-08,5000000,USD,a
+meebo,Meebo,40,web,Mountain View,CA,1-Dec-05,3500000,USD,a
+meebo,Meebo,40,web,Mountain View,CA,1-Jan-07,9000000,USD,b
+meebo,Meebo,40,web,Mountain View,CA,30-Apr-08,25000000,USD,c
+eventbrite,Eventbrite,13,web,San Francisco,CA,1-Nov-06,100000,USD,angel
+linkedin,LinkedIn,,web,Mountain View,CA,1-Nov-03,4700000,USD,a
+linkedin,LinkedIn,,web,Mountain View,CA,1-Oct-04,10000000,USD,b
+linkedin,LinkedIn,,web,Mountain View,CA,1-Jan-07,12800000,USD,c
+linkedin,LinkedIn,,web,Mountain View,CA,17-Jun-08,53000000,USD,d
+flickim,FlickIM,,web,Berkeley,CA,1-Mar-07,1600000,USD,a
+terabitz,Terabitz,12,web,Palo Alto,CA,1-Feb-07,10000000,USD,a
+healthline,Healthline,,web,San Francisco,CA,1-Jan-06,14000000,USD,a
+healthline,Healthline,,web,San Francisco,CA,1-Jul-07,21000000,USD,b
+box-net,Box.net,19,web,Palo Alto,CA,1-Oct-06,1500000,USD,a
+box-net,Box.net,19,web,Palo Alto,CA,23-Jan-08,6000000,USD,b
+conduit,Conduit,,web,Redwood Shores,CA,1-Jul-06,1800000,USD,a
+conduit,Conduit,,web,Redwood Shores,CA,1-Jan-08,8000000,USD,b
+edgeio,Edgeio,,web,Palo Alto,CA,1-Jul-07,5000000,USD,a
+spotrunner,Spot Runner,,web,Los Angeles,CA,1-Jan-06,10000000,USD,a
+spotrunner,Spot Runner,,web,Los Angeles,CA,1-Oct-06,40000000,USD,b
+spotrunner,Spot Runner,,web,Los Angeles,CA,7-May-08,51000000,USD,c
+kaboodle,Kaboodle,,web,Santa Clara,CA,1-Mar-05,1500000,USD,a
+kaboodle,Kaboodle,,web,Santa Clara,CA,1-Mar-06,2000000,USD,b
+kaboodle,Kaboodle,,web,Santa Clara,CA,1-Mar-07,1500000,USD,c
+giga-omni-media,Giga Omni Media,18,web,San Francisco,CA,1-Jun-06,325000,USD,a
+visiblepath,Visible Path,,web,Foster City,CA,1-Mar-06,17000000,USD,b
+visiblepath,Visible Path,,web,Foster City,CA,1-Mar-06,7700000,USD,a
+wink,Wink,,web,Mountain View,CA,1-Jan-05,6200000,USD,a
+seesmic,seesmic,,web,San Francisco,CA,1-Nov-07,6000000,USD,a
+seesmic,seesmic,,web,San Francisco,CA,20-Jun-08,6000000,USD,b
+zvents,Zvents,,web,San Mateo,CA,7-Nov-06,7000000,USD,a
+zvents,Zvents,,web,San Mateo,CA,5-Oct-05,200000,USD,seed
+eventful,Eventful,35,web,San Diego,CA,1-Sep-06,7500000,USD,b
+eventful,Eventful,35,web,San Diego,CA,1-Mar-05,2100000,USD,a
+oodle,Oodle,,web,San Mateo,CA,1-May-06,5000000,USD,a
+oodle,Oodle,,web,San Mateo,CA,1-Jul-07,11000000,USD,b
+odesk,oDesk,,web,Menlo Park,CA,1-Apr-06,6000000,USD,a
+odesk,oDesk,,web,Menlo Park,CA,1-Sep-06,8000000,USD,b
+odesk,oDesk,,web,Menlo Park,CA,1-Jun-08,15000000,USD,c
+simplyhired,SimplyHired,,web,Mountain View,CA,1-Mar-06,13500000,USD,b
+simplyhired,SimplyHired,,web,Mountain View,CA,5-Aug-05,3000000,USD,a
+ooma,ooma,47,web,Palo Alto,CA,1-Jan-05,8000000,USD,a
+ooma,ooma,47,web,Palo Alto,CA,1-Dec-06,18000000,USD,b
+goingon,GoingOn,3,web,Woodside,CA,1-Aug-05,1000000,USD,seed
+flixster,Flixster,17,web,San Francisco,CA,1-Feb-07,2000000,USD,a
+flixster,Flixster,17,web,San Francisco,CA,4-Apr-08,5000000,USD,b
+piczo,Piczo,,web,San Francisco,CA,1-Jan-07,11000000,USD,c
+socialtext,Socialtext,,web,Palo Alto,CA,1-Jun-04,300000,USD,angel
+socialtext,Socialtext,,web,Palo Alto,CA,1-Jun-05,3100000,USD,b
+socialtext,Socialtext,,web,Palo Alto,CA,1-Nov-07,9500000,USD,c
+powerreviews,PowerReview,,web,Millbrae,CA,1-Dec-05,6250000,USD,a
+powerreviews,PowerReview,,web,Millbrae,CA,1-Sep-07,15000000,USD,b
+hi5,hi5,100,web,San Francisco,CA,1-Jul-07,20000000,USD,a
+hi5,hi5,100,web,San Francisco,CA,1-Dec-07,15000000,USD,debt_round
+tagged,Tagged,,web,San Francisco,CA,1-Sep-05,1500000,USD,angel
+tagged,Tagged,,web,San Francisco,CA,1-Dec-05,7000000,USD,a
+tagged,Tagged,,web,San Francisco,CA,1-Jul-07,15000000,USD,b
+jaxtr,Jaxtr,,web,Menlo Park,CA,1-Jul-07,1500000,USD,angel
+jaxtr,Jaxtr,,web,Menlo Park,CA,1-Aug-07,10000000,USD,a
+jaxtr,Jaxtr,,web,Menlo Park,CA,23-Jun-08,10000000,USD,b
+m,Me,,web,San Jose,CA,1-May-07,1500000,USD,seed
+intronetworks,introNetworks,9,web,Santa Barbara,CA,1-May-07,2700000,USD,a
+leveragesoftware,Leverage Software,21,web,San Francisco,CA,14-May-05,6000000,USD,a
+lithiumtechnologies,Lithium Technologies,42,web,Emeryville,CA,17-Apr-07,9000000,USD,a
+lithiumtechnologies,Lithium Technologies,42,web,Emeryville,CA,1-Jun-08,12000000,USD,b
+genius,Genius,,web,San Mateo,CA,1-Mar-06,5100000,USD,a
+genius,Genius,,web,San Mateo,CA,1-Jan-07,10000000,USD,b
+genius,Genius,,web,San Mateo,CA,5-Feb-08,19000000,USD,c
+respectance,Respectance,,web,San Francisco,CA,1-Jun-07,250000,USD,seed
+respectance,Respectance,,web,San Francisco,CA,1-Jul-07,1500000,USD,a
+curse,Curse,,web,San Francisco,CA,1-Jul-07,5000000,USD,a
+licketyship,LicketyShip,,web,San Francisco,CA,1-Dec-07,1500000,USD,angel
+grockit,Grockit,8,web,San Francisco,CA,1-Jun-07,2300000,USD,a
+grockit,Grockit,8,web,San Francisco,CA,30-May-08,8000000,USD,b
+peerme,PeerMe,,web,Mountain View,CA,1-Jan-05,5000000,USD,a
+kiptronic,Kiptronic,20,web,San Francisco,CA,1-Dec-06,4000000,USD,a
+kiptronic,Kiptronic,20,web,San Francisco,CA,1-Nov-05,300000,USD,angel
+kiptronic,Kiptronic,20,web,San Francisco,CA,5-Jun-08,3000000,USD,b
+vuze,Vuze,,web,Palo Alto,CA,1-Dec-06,12000000,USD,b
+vuze,Vuze,,web,Palo Alto,CA,1-Dec-07,20000000,USD,c
+phonezoo,Phonezoo,,web,Sunnyvale,CA,1-Jun-06,560000,USD,a
+phonezoo,Phonezoo,,web,Sunnyvale,CA,1-Feb-07,1500000,USD,a
+droplettechnology,Droplet Technology,,web,Menlo Park,CA,1-Oct-06,3500000,USD,a
+podtech,PodTech,,web,Palo Alto,CA,1-Mar-06,5500000,USD,a
+podtech,PodTech,,web,Palo Alto,CA,1-Jun-07,2000000,USD,a
+crackle,Crackle,,web,Mill Valley,CA,1-Dec-05,1750000,USD,a
+reddit,Reddit,,web,San Francisco,CA,1-Jun-05,100000,USD,seed
+wikia,Wikia,,web,San Mateo,CA,1-Mar-06,4000000,USD,a
+wikia,Wikia,,web,San Mateo,CA,1-Dec-06,10000000,USD,b
+retrevo,Retrevo,,web,Sunnyvale,CA,1-Dec-06,3200000,USD,a
+retrevo,Retrevo,,web,Sunnyvale,CA,1-Feb-06,700000,USD,seed
+retrevo,Retrevo,,web,Sunnyvale,CA,20-Mar-08,8000000,USD,b
+buxfer,Buxfer,2,web,Mountain View,CA,1-Jan-07,15000,USD,seed
+buxfer,Buxfer,2,web,Mountain View,CA,1-Apr-07,300000,USD,angel
+yousendit,YouSendIt,0,web,Campbell,CA,24-Apr-07,10000000,USD,b
+yousendit,YouSendIt,0,web,Campbell,CA,1-Aug-05,10000000,USD,a
+yousendit,YouSendIt,0,web,Campbell,CA,15-Jul-08,14000000,USD,c
+tangler,Tangler,,web,Mountain View,CA,1-Jul-06,1500000,USD,angel
+obopay,obopay,,web,Redwood City,CA,1-Feb-06,10000000,USD,a
+obopay,obopay,,web,Redwood City,CA,1-Sep-06,7000000,USD,b
+obopay,obopay,,web,Redwood City,CA,1-Jul-07,29000000,USD,c
+obopay,obopay,,web,Redwood City,CA,21-Apr-08,20000000,USD,d
+paypal,PayPal,,web,San Jose,CA,1-Apr-00,100000000,USD,c
+paypal,PayPal,,web,San Jose,CA,1-Feb-01,90000000,USD,d
+paypal,PayPal,,web,San Jose,CA,1-Jul-99,4000000,USD,b
+talkplus,TalkPlus,,web,San Mateo,CA,1-Oct-06,5500000,USD,a
+vudu,Vudu,50,hardware,Santa Clara,CA,1-Jun-05,21000000,USD,a
+insiderpages,Insider Pages,,web,Redwood City,CA,1-Mar-06,8500000,USD,a
+snapfish,Snapfish,,web,San Francisco,CA,1-Nov-99,7500000,USD,a
+snapfish,Snapfish,,web,San Francisco,CA,1-May-00,36000000,USD,b
+affinitycircles,Affinity Circles,22,web,Mountain View,CA,1-May-06,4100000,USD,c
+affinitycircles,Affinity Circles,22,web,Mountain View,CA,1-Jun-05,1000000,USD,b
+affinitycircles,Affinity Circles,22,web,Mountain View,CA,1-Dec-04,440000,USD,a
+imvu,IMVU,,web,Palo Alto,CA,1-Feb-06,1000000,USD,angel
+nirvanix,Nirvanix,,web,San Diego,CA,19-Dec-07,18000000,USD,a
+fuzzwich,Habit Industries,4,web,Palo Alto,CA,1-Jun-07,15000,USD,seed
+gaia,Gaia,,web,San Jose,CA,1-Jun-06,8930000,USD,a
+gaia,Gaia,,web,San Jose,CA,1-Mar-07,12000000,USD,b
+gaia,Gaia,,web,San Jose,CA,14-Jul-08,11000000,USD,c
+greatcall,GreatCall,,web,Del Mar,CA,1-Aug-07,36600000,USD,a
+revver,Revver,,web,Los Angeles,CA,1-Nov-05,4000000,USD,a
+revver,Revver,,web,Los Angeles,CA,1-Apr-06,8700000,USD,b
+metacafe,Metacafe,,web,Palo Alto,CA,1-Jul-06,15000000,USD,b
+metacafe,Metacafe,,web,Palo Alto,CA,1-Aug-07,30000000,USD,c
+flock,Flock,40,web,Redwood City,CA,1-Nov-05,3300000,USD,b
+flock,Flock,40,web,Redwood City,CA,1-Jun-06,10000000,USD,c
+flock,Flock,40,web,Redwood City,CA,21-May-08,15000000,USD,d
+vmixmedia,VMIX Media,42,web,San Diego,CA,1-Mar-06,5000000,USD,a
+vmixmedia,VMIX Media,42,web,San Diego,CA,1-Oct-07,16500000,USD,b
+kontera,Kontera,,web,San Francisco,CA,1-Aug-07,10300000,USD,b
+kontera,Kontera,,web,San Francisco,CA,1-Jul-06,7000000,USD,a
+tokbox,Tokbox,,web,San Francisco,CA,1-Oct-07,4000000,USD,a
+tokbox,Tokbox,,web,San Francisco,CA,6-Aug-08,10000000,USD,b
+six-apart,Six Apart,150,web,San Francisco,CA,1-Oct-04,10000000,USD,b
+six-apart,Six Apart,150,web,San Francisco,CA,1-Mar-06,12000000,USD,c
+six-apart,Six Apart,150,web,San Francisco,CA,23-Apr-03,600000,USD,a
+weebly,Weebly,,web,San Francisco,CA,1-May-07,650000,USD,seed
+synthasite,Synthasite,26,web,San Francisco,CA,1-Nov-07,5000000,USD,a
+bittorrent,BitTorrent,29,web,San Francisco,CA,1-Sep-05,8750000,USD,a
+bittorrent,BitTorrent,29,web,San Francisco,CA,1-Dec-06,25000000,USD,b
+kongregate,Kongregate,16,web,San Francisco,CA,1-Mar-07,1000000,USD,a
+kongregate,Kongregate,16,web,San Francisco,CA,1-Aug-07,5000000,USD,b
+kongregate,Kongregate,16,web,San Francisco,CA,1-Apr-08,3000000,USD,b
+dancejam,DanceJam,0,web,San Francisco,CA,1-May-07,1000000,USD,angel
+dancejam,DanceJam,0,web,San Francisco,CA,1-Feb-08,3500000,USD,a
+fathomonline,Fathom Online,,web,San Francisco,CA,1-Jul-04,6000000,USD,a
+zivity,Zivity,16,web,San Francisco,CA,1-Aug-07,1000000,USD,seed
+zivity,Zivity,16,web,San Francisco,CA,1-Mar-08,7000000,USD,b
+bluelithium,BlueLithium,135,web,San Jose,CA,1-Feb-05,11500000,USD,a
+expresso,eXpresso,,web,Menlo Park,CA,1-Oct-07,2000000,USD,a
+doostang,Doostang,,web,Palo Alto,CA,1-Sep-07,3500000,USD,a
+docstoc,Docstoc,,web,Beverly Hills,CA,1-Nov-07,750000,USD,a
+docstoc,Docstoc,,web,Beverly Hills,CA,28-Apr-08,3250000,USD,b
+mevio,Mevio,,web,San Francisco,CA,1-Jul-05,8900000,USD,a
+mevio,Mevio,,web,San Francisco,CA,1-Sep-06,15000000,USD,b
+mevio,Mevio,,web,San Francisco,CA,9-Jul-08,15000000,USD,c
+purevideo,PureVideo Networks,,web,Los Angeles,CA,1-Dec-05,5600000,USD,a
+purevideo,PureVideo Networks,,web,Los Angeles,CA,1-Sep-07,2850000,USD,b
+filmloop,FilmLoop,,web,Menlo Park,CA,1-Feb-05,5600000,USD,a
+bitpass,BitPass,,web,Mountain View,CA,1-Jul-03,1500000,USD,a
+bitpass,BitPass,,web,Mountain View,CA,1-Sep-04,11800000,USD,b
+art-com,Art.com,500,web,Emeryville,CA,1-Feb-05,30000000,USD,a
+atomshockwave,Atom Shockwave,,web,San Francisco,CA,1-Mar-01,22900000,USD,a
+cinemanow,CinemaNow,,web,Marina Del Rey,CA,1-Jul-04,11000000,USD,a
+digitalchocolate,Digital Chocolate,,web,San Mateo,CA,1-Dec-03,8400000,USD,a
+digitalchocolate,Digital Chocolate,,web,San Mateo,CA,1-Dec-03,13000000,USD,b
+eharmony,eHarmony,,web,Pasadena,CA,1-Jun-00,3000000,USD,a
+eharmony,eHarmony,,web,Pasadena,CA,1-Nov-04,110000000,USD,b
+friendster,Friendster,465,web,San Francisco,CA,1-Dec-02,2400000,USD,a
+friendster,Friendster,465,web,San Francisco,CA,1-Oct-03,13000000,USD,b
+friendster,Friendster,465,web,San Francisco,CA,1-Aug-06,10000000,USD,c
+friendster,Friendster,465,web,San Francisco,CA,5-Aug-08,20000000,USD,d
+greystripe,Greystripe,,web,San Francisco,CA,1-May-07,8900000,USD,b
+slingmedia,Sling Media,,web,Foster City,CA,1-Nov-04,10500000,USD,a
+slingmedia,Sling Media,,web,Foster City,CA,1-Jul-05,4000000,USD,a
+trulia,Trulia,,web,San Francisco,CA,1-Dec-05,5700000,USD,b
+trulia,Trulia,,web,San Francisco,CA,1-May-07,10000000,USD,c
+trulia,Trulia,,web,San Francisco,CA,1-Sep-05,2100000,USD,a
+trulia,Trulia,,web,San Francisco,CA,10-Jul-08,15000000,USD,d
+lendingclub,Lending Club,,web,Sunnyvale,CA,1-May-07,2000000,USD,angel
+lendingclub,Lending Club,,web,Sunnyvale,CA,1-Aug-07,10260000,USD,a
+tubemogul,tubemogul,15,web,Emeryville,CA,7-Feb-08,1500000,USD,a
+gemini,Gemini,,web,San Mateo,CA,1-Mar-07,20000000,USD,a
+gemini,Gemini,,web,San Mateo,CA,1-May-07,5000000,USD,b
+multiverse,Multiverse,,web,Mountain View,CA,1-May-07,4175000,USD,a
+multiverse,Multiverse,,web,Mountain View,CA,17-Apr-07,850000,USD,angel
+limelife,LimeLife,,mobile,Menlo Park,CA,28-Mar-06,10000000,USD,b
+limelife,LimeLife,,mobile,Menlo Park,CA,1-Aug-05,5000000,USD,a
+limelife,LimeLife,,mobile,Menlo Park,CA,24-May-07,3900000,USD,b
+opentable,OpenTable,,web,San Francisco,CA,1-May-99,2000000,USD,a
+opentable,OpenTable,,web,San Francisco,CA,1-Jan-00,10000000,USD,b
+opentable,OpenTable,,web,San Francisco,CA,1-Oct-00,36000000,USD,c
+rooftopcomedy,RooftopComedy,20,web,San Francisco,CA,1-May-07,2500000,USD,a
+federatedmedia,Federated Media,,web,Sausalito,CA,1-Aug-07,4500000,USD,b
+federatedmedia,Federated Media,,web,Sausalito,CA,1-Apr-08,50000000,USD,c
+deliveryagent,Delivery Agent,,web,San Francisco,CA,1-May-07,18500000,USD,c
+deliveryagent,Delivery Agent,,web,San Francisco,CA,17-May-06,11000000,USD,b
+deliveryagent,Delivery Agent,,web,San Francisco,CA,29-Mar-05,5500000,USD,a
+reunion,Reunion,100,web,Los Angeles,CA,1-Apr-07,25000000,USD,a
+mixercast,Mixercast,,web,San Mateo,CA,1-May-05,2600000,USD,a
+mixercast,Mixercast,,web,San Mateo,CA,1-Jan-08,6000000,USD,b
+mtraks,mTraks,,web,San Diego,CA,1-May-07,550000,USD,angel
+xora,Xora,,web,Mountain View,CA,1-May-01,7000000,USD,a
+xora,Xora,,web,Mountain View,CA,1-Feb-03,4000000,USD,b
+xora,Xora,,web,Mountain View,CA,1-Jun-07,4000000,USD,debt_round
+ooyala,Ooyala,,web,Mountain View,CA,1-Jan-08,8500000,USD,b
+saynow,SayNow,14,web,Palo Alto,CA,1-Sep-07,7500000,USD,a
+crunchyroll,Crunchyroll,,web,San Francsico,CA,1-Feb-08,4050000,USD,a
+circleup,CircleUp,19,web,Newport Beach,CA,1-Jun-07,3000000,USD,a
+pixsense,PixSense,,web,Santa Clara,CA,1-Dec-06,5400000,USD,a
+pixsense,PixSense,,web,Santa Clara,CA,1-Jun-07,2000000,USD,b
+danal,Danal,,web,San Jose,CA,1-Jun-07,9500000,USD,a
+hulu,hulu,,web,Los Angeles,CA,1-Aug-07,100000000,USD,a
+ourstory,OurStory,,web,Mountain View,CA,1-Jan-06,6300000,USD,a
+specificmedia,Specificmedia,,web,Ir vine,CA,1-Jun-06,10000000,USD,a
+specificmedia,Specificmedia,,web,Ir vine,CA,1-Nov-07,100000000,USD,b
+admob,AdMob,,web,San Mateo,CA,1-Mar-07,15000000,USD,b
+mysql,MySQL,,web,Cupertino,CA,1-Feb-06,18500000,USD,c
+mysql,MySQL,,web,Cupertino,CA,1-Jun-03,19500000,USD,b
+attributor,Attributor,0,web,Redwood City,CA,28-Jan-06,2000000,USD,a
+attributor,Attributor,0,web,Redwood City,CA,2-Apr-08,12000000,USD,c
+attributor,Attributor,0,web,Redwood City,CA,18-Dec-06,8000000,USD,b
+socialmedia,Social Media,15,web,Palo Alto,CA,1-Sep-07,500000,USD,a
+socialmedia,Social Media,15,web,Palo Alto,CA,1-Oct-07,3500000,USD,b
+demandmedia,Demand Media,,web,Santa Monica,CA,1-May-06,120000000,USD,a
+demandmedia,Demand Media,,web,Santa Monica,CA,1-Sep-06,100000000,USD,b
+demandmedia,Demand Media,,web,Santa Monica,CA,1-Sep-07,100000000,USD,c
+demandmedia,Demand Media,,web,Santa Monica,CA,24-Mar-08,35000000,USD,d
+tripit,TripIt,8,web,San Francisco,CA,1-Apr-07,1000000,USD,seed
+pubmatic,PubMatic,35,web,Palo Alto,CA,1-Jan-08,7000000,USD,a
+mint,Mint,22,web,Mountain View,CA,1-Oct-07,4700000,USD,a
+mint,Mint,22,web,Mountain View,CA,1-Oct-06,325000,USD,seed
+mint,Mint,22,web,Mountain View,CA,5-Mar-08,12000000,USD,b
+app2you,app2you,4,web,La Jolla,CA,20-Nov-07,255000,USD,angel
+app2you,app2you,4,web,La Jolla,CA,1-Oct-06,177000,USD,angel
+yourstreet,YourStreet,6,web,San Francisco,CA,1-Oct-06,250000,USD,angel
+tagworld,Tagworld,,web,Santa Monica,CA,1-Mar-06,7500000,USD,a
+tagworld,Tagworld,,web,Santa Monica,CA,1-Dec-06,40000000,USD,b
+rotohog,RotoHog,,web,Inglewood,CA,1-Aug-07,6000000,USD,a
+thisnext,ThisNext,0,web,Santa Monica,CA,1-Jan-08,5000000,USD,b
+thisnext,ThisNext,0,web,Santa Monica,CA,1-Jan-06,2500000,USD,a
+chesspark,ChessPark,,web,West Palm Beach,CA,1-Jul-07,1000000,USD,angel
+break,Break,,web,Beverly Hills,CA,1-Jul-07,21400000,USD,a
+musestorm,MuseStorm,,web,Sunnyvale,CA,1-Jul-07,1000000,USD,a
+mediamachines,Media Machines,,web,San Francisco,CA,1-Aug-07,9400000,USD,a
+mig33,Ciihui,,web,Burlingame,CA,1-May-07,10000000,USD,a
+mig33,Ciihui,,web,Burlingame,CA,1-Jan-08,13500000,USD,b
+aliph,Aliph,,web,San Francisco,CA,1-Jul-07,5000000,USD,a
+mego,mEgo,15,web,Los Angeles,CA,1-May-06,1100000,USD,angel
+mego,mEgo,15,web,Los Angeles,CA,1-Jul-07,2000000,USD,angel
+realius,Realius,3,web,Berkeley,CA,1-May-07,500000,USD,angel
+xobni,Xobni,0,software,San Francisco,CA,1-Jun-06,12000,USD,seed
+xobni,Xobni,0,software,San Francisco,CA,1-Nov-06,80000,USD,angel
+xobni,Xobni,0,software,San Francisco,CA,1-Mar-07,4260000,USD,a
+spoke,Spoke,0,web,San Mateo,CA,18-Nov-03,11700000,USD,c
+spoke,Spoke,0,web,San Mateo,CA,24-Apr-03,9200000,USD,b
+fixya,FixYa,30,web,San Mateo,CA,1-Jan-07,2000000,USD,a
+fixya,FixYa,30,web,San Mateo,CA,18-Mar-08,6000000,USD,b
+mozilla,Mozilla,150,web,Mountain View,CA,15-Jul-03,2000000,USD,unattributed
+brightqube,BrightQube,0,web,Carlsbad,CA,1-May-07,200000,USD,angel
+buzzdash,BuzzDash,0,web,Marina del Rey,CA,1-Sep-06,1200000,USD,angel
+urbanmapping,Urban Mapping,9,web,San Francisco,CA,1-May-06,400000,USD,seed
+consortemedia,Consorte Media,0,web,San Francisco,CA,1-Dec-07,7000000,USD,b
+ffwd,ffwd,,web,San Francisco,CA,1-Aug-07,1700000,USD,a
+satisfaction,Get Satisfaction,,web,San Francisco,CA,1-Sep-07,1300000,USD,a
+ringcentral,RingCentral,,web,Redwood City,CA,1-Sep-07,12000000,USD,a
+ringcentral,RingCentral,,web,Redwood City,CA,1-Feb-08,12000000,USD,b
+3jam,3Jam,,web,Menlo Park,CA,1-Jul-07,4000000,USD,a
+playspan,PlaySpan,,web,Santa Clara,CA,1-Sep-07,6500000,USD,a
+grouply,Grouply,6,web,Redwood City,CA,1-Jun-07,935000,USD,angel
+grouply,Grouply,6,web,Redwood City,CA,1-Jan-08,365000,USD,angel
+grouply,Grouply,6,web,Redwood City,CA,14-Jan-08,1300000,USD,a
+graspr,Graspr,,web,Sunnyvale,CA,10-Jul-08,2500000,USD,a
+zannel,Zannel,,web,San Francisco,CA,2-Jun-08,10000000,USD,b
+deca-tv,deca.tv,,web,Santa Monica,CA,1-Sep-07,5000000,USD,a
+zimbra,Zimbra,,web,San Mateo,CA,1-Apr-06,14500000,USD,c
+friendfeed,FriendFeed,,web,Mountain View,CA,26-Feb-08,5000000,USD,a
+rupture,Rupture,15,web,San Francisco,CA,1-Jul-07,3000000,USD,angel
+jibjab,JibJab,,web,Santa Monica,CA,1-Oct-07,3000000,USD,b
+rubiconproject,Rubicon Project,,web,Los Angeles,CA,1-Oct-07,4000000,USD,a
+rubiconproject,Rubicon Project,,web,Los Angeles,CA,1-Oct-07,2000000,USD,debt_round
+rubiconproject,Rubicon Project,,web,Los Angeles,CA,28-Jan-08,15000000,USD,b
+snaplayout,SnapLayout,,web,San Francisco,CA,1-May-07,650000,USD,a
+confabb,Confabb,,web,,CA,1-Aug-07,200000,USD,angel
+uptake,UpTake,,web,Palo Alto,CA,18-Dec-07,4000000,USD,a
+23andme,23andMe,30,web,Mountain View,CA,1-May-07,9000000,USD,a
+yume,YuMe,,web,Redwood City,CA,1-Oct-07,9000000,USD,b
+mochimedia,Mochi Media,,web,San Francisco,CA,12-Mar-08,4000000,USD,a
+mochimedia,Mochi Media,,web,San Francisco,CA,18-Jun-08,10000000,USD,b
+blurb,Blurb,,web,San Francisco,CA,1-Oct-06,12000000,USD,b
+weatherbill,WeatherBill,,web,San Francisco,CA,1-Oct-07,12600000,USD,a
+automattic,Automattic,20,web,San Francisco,CA,1-Jul-05,1100000,USD,a
+automattic,Automattic,20,web,San Francisco,CA,1-Jan-08,29500000,USD,b
+twine,Radar Networks,,web,San Francisco,CA,1-Apr-06,5000000,USD,a
+twine,Radar Networks,,web,San Francisco,CA,1-Feb-08,13000000,USD,b
+veodia,Veodia,15,web,San Mateo,CA,12-May-08,8300000,USD,a
+echosign,EchoSign,,web,Palo Alto,CA,1-Oct-07,6000000,USD,a
+rollbase,Rollbase,0,web,Mountain View,CA,1-Aug-07,400000,USD,angel
+predictify,Predictify,6,web,Redwood City,CA,25-Mar-08,4300000,USD,a
+trialpay,TrialPay,50,web,San Francisco,CA,1-Feb-08,12700000,USD,b
+socializr,Socializr,,web,San Francisco,CA,1-Sep-07,1500000,USD,a
+eurekster,Eurekster,0,web,,CA,1-Dec-04,1350000,USD,a
+eurekster,Eurekster,0,web,,CA,13-Mar-07,5500000,USD,b
+gydget,Gydget,,web,San Francisco,CA,1-Aug-06,1000000,USD,a
+pickspal,PicksPal,,web,Mountain View,CA,1-Oct-07,3000000,USD,c
+gigya,Gigya,,web,Palo Alto,CA,1-Feb-07,3000000,USD,a
+gigya,Gigya,,web,Palo Alto,CA,9-Mar-08,9500000,USD,b
+songbird,Songbird,,web,San Francisco,CA,1-Dec-06,8000000,USD,seed
+guardiananalytics,Guardian Analytics,,web,Los Altos,CA,1-Oct-07,4500000,USD,b
+fora-tv,Fora.TV,,web,San Francisco,CA,1-Oct-07,4000000,USD,a
+disqus,Disqus,3,web,San Francisco,CA,18-Mar-08,500000,USD,a
+sezwho,SezWho,9,web,Los Altos,CA,1-Oct-07,1000000,USD,a
+yieldbuild,YieldBuild,,web,San Francisco,CA,3-Mar-08,6000000,USD,b
+akimbo,Akimbo,,web,San Mateo,CA,1-Jun-06,15500000,USD,c
+akimbo,Akimbo,,web,San Mateo,CA,1-Jul-04,12000000,USD,b
+akimbo,Akimbo,,web,San Mateo,CA,1-Jun-03,4200000,USD,seed
+akimbo,Akimbo,,web,San Mateo,CA,29-Feb-08,8000000,USD,d
+laszlosystems,Laszlo Systems,60,software,San Mateo,CA,6-Mar-08,14600000,USD,c
+laszlosystems,Laszlo Systems,60,software,San Mateo,CA,15-Apr-05,6250000,USD,b
+brightroll,BrightRoll,,web,San Francisco,CA,1-Oct-07,5000000,USD,b
+merchantcircle,MerchantCircle,10,web,Los Altos,CA,1-Sep-07,10000000,USD,b
+minekey,Minekey,,web,Sunnyvale,CA,1-Aug-07,3000000,USD,a
+bookingangel,Booking Angel,,web,Hollywood,CA,1-Aug-07,100000,USD,angel
+loopt,Loopt,,web,Mountain View,CA,1-Jun-05,6000,USD,seed
+loopt,Loopt,,web,Mountain View,CA,23-Jul-07,8250000,USD,b
+fix8,Fix8,,web,Sherman Oaks,CA,1-Oct-07,3000000,USD,a
+fix8,Fix8,,web,Sherman Oaks,CA,3-Apr-08,2000000,USD,b
+mybuys,MyBuys,,web,Redwood Shores,CA,21-Feb-07,2800000,USD,a
+mybuys,MyBuys,,web,Redwood Shores,CA,8-Oct-07,10000000,USD,b
